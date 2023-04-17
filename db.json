@@ -1,8 +1,18 @@
 {
-    "users": [
-        {"id": 1, "name": "Myra"}
-    ],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Vincent Goodwin",
+      "id": 2
+    },
+    {
+      "name": "Ebony Murphy",
+      "id": 3
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
-
