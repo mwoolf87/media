@@ -11,6 +11,10 @@
     {
       "name": "Antoinette Lesch",
       "id": 4
+    },
+    {
+      "name": "Shelley Crist",
+      "id": 5
     }
   ],
   "albums": [
@@ -25,9 +29,39 @@
       "id": 20
     },
     {
+      "userId": 5,
+      "title": "Fantastic Wooden Pizza",
+      "id": 22
+    },
+    {
+      "userId": 5,
+      "title": "Small Rubber Keyboard",
+      "id": 23
+    },
+    {
       "userId": 2,
-      "title": "Ergonomic Soft Computer",
-      "id": 21
+      "title": "Electronic Soft Keyboard",
+      "id": 24
+    },
+    {
+      "userId": 4,
+      "title": "Recycled Soft Gloves",
+      "id": 25
+    },
+    {
+      "userId": 4,
+      "title": "Electronic Plastic Chicken",
+      "id": 26
+    },
+    {
+      "userId": 4,
+      "title": "Small Cotton Soap",
+      "id": 27
+    },
+    {
+      "userId": 3,
+      "title": "Intelligent Rubber Sausages",
+      "id": 28
     }
   ],
   "photos": []
