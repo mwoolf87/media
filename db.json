@@ -1,73 +1,33 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
-    },
-    {
       "name": "Vincent Goodwin",
       "id": 2
     },
     {
       "name": "Amber Gottlieb",
       "id": 3
+    },
+    {
+      "name": "Antoinette Lesch",
+      "id": 4
     }
   ],
   "albums": [
-    {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
-    },
-    {
-      "userId": 1,
-      "title": "Small Frozen Chicken",
-      "id": 11
-    },
-    {
-      "userId": 1,
-      "title": "Elegant Cotton Shirt",
-      "id": 12
-    },
-    {
-      "userId": 1,
-      "title": "Bespoke Cotton Computer",
-      "id": 13
-    },
-    {
-      "userId": 1,
-      "title": "Bespoke Plastic Hat",
-      "id": 14
-    },
-    {
-      "userId": 1,
-      "title": "Sleek Soft Car",
-      "id": 15
-    },
-    {
-      "userId": 1,
-      "title": "Elegant Granite Ball",
-      "id": 16
-    },
-    {
-      "userId": 1,
-      "title": "Bespoke Rubber Gloves",
-      "id": 17
-    },
-    {
-      "userId": 2,
-      "title": "Small Soft Cheese",
-      "id": 18
-    },
     {
       "userId": 2,
       "title": "Sleek Cotton Bike",
       "id": 19
     },
     {
-      "userId": 1,
-      "title": "Incredible Granite Chicken",
+      "userId": 2,
+      "title": "Generic Rubber Keyboard",
       "id": 20
+    },
+    {
+      "userId": 2,
+      "title": "Ergonomic Soft Computer",
+      "id": 21
     }
   ],
   "photos": []
