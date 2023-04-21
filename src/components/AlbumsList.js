@@ -5,8 +5,9 @@ import ExpandablePanel from "./ExpandablePanel";
 import Button from "./Button";
 const AlbumsList = ({ user }) => {
   const { data, error, isLoading } = useFetchAlbumsQuery(user);
+
   const [addAlbum, results] = useAddAlbumMutation();
-  console.log(results);
+
   const handleAddAlbum = () => {
     addAlbum(user);
   };

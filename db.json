@@ -40,6 +40,26 @@
       "userId": 1,
       "title": "Elegant Cotton Shirt",
       "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Cotton Computer",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Bespoke Plastic Hat",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Soft Car",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Granite Ball",
+      "id": 16
     }
   ],
   "photos": []
